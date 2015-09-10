@@ -1,6 +1,6 @@
 require 'spec_helper'
-require './lib/biker/tool'
-require './lib/biker/station'
+require 'biker/tool'
+require 'biker/station'
 
 RSpec.describe Biker::Tool do
   include Biker::Tool

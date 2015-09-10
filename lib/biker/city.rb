@@ -1,4 +1,4 @@
-require './lib/biker/tool'
+require 'biker/tool'
 
 class Biker::City
   include Biker::Tool

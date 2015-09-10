@@ -1,6 +1,6 @@
 require 'spec_helper'
-require './lib/biker/city'
-require './lib/biker/station'
+require 'biker/city'
+require 'biker/station'
 
 RSpec.describe Biker::City do
 
