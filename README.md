@@ -1,6 +1,8 @@
 # Biker gem for nextBike api
 Under development
 
+NextBike xml api client.
+
 ### Install
 
 ```
