@@ -12,6 +12,7 @@ gem 'biker', github: 'btolarz/biker'
 ### Usage
 
 ```
+# find city id in http://nextbike.net/maps/nextbike-official.xml file
 city = Biker::City.new(245)
 
 city.stations
