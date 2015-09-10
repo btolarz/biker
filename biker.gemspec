@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.version     = Biker::VERSION
   s.authors     = ["Bogusław Tolarz"]
   s.email       = ["btolarz@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Biker."
+  s.homepage    = "https://github.com/btolarz/biker"
+  s.summary     = "nextBike api client"
   s.description = "Simple api client for nextBike."
   s.license     = "MIT"
 
